@@ -1,0 +1,27 @@
+@import url("https://fonts.googleapis.com/css?family=Bahiana");
+
+body {
+  background-image: url("https://images6.alphacoders.com/407/thumb-1920-407732.jpg");
+}
+h1 {
+  font-family: Comic Sans MS, sans-serif;
+  text-align: center;
+  -webkit-text-stroke-width: 2px;
+  -webkit-text-stroke-color: white;
+  font-size: 70px;
+  font-weight: 100;
+}
+h2 {
+  font-family: "Comic Sans MS", sans-serif;
+  color: black;
+}
+p {
+  font-family: "Comic Sans MS", sans-serif;
+  color: black;
+  text-shadow: -1px -1px 1px white,
+    1px 1px 1px white,
+    -1px 1px 1px white,
+    1px -1px 1px white;
+  font-size: 30px;
+  font-weight: normal;
+}
